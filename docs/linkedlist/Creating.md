@@ -41,12 +41,12 @@ console.log(LL);
   tail: null
 }
 
-var node1 = new Node(100, 'node2', null);
+var node1 = new Node('node2', null, 100);
 console.log(node1);
 // Our first node
 {
-  value: 100,
   next: 'node2',
-  prev: null
+  prev: null,
+  value: 100
 };
 ```
