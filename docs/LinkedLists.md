@@ -27,8 +27,8 @@ There are 5 main operations we would want to be able to perform on our Linked Li
 ```
 
 ## Links
-- [Creating our Linked List](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/Creating.md)
-- [Adding to the Head](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/AddToHead.md)
-- []()
-- []()
-- []()
+1. [Creating our Linked List](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/Creating.md)
+2. [Adding to the Head](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/AddToHead.md)
+3. [Adding to the Tail](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/AddToTail.md)
+4. []()
+5. []()
