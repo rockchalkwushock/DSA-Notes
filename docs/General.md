@@ -4,7 +4,7 @@
 > - There are many types of data structures.
 > - Each type of data structure represents a different way of organizing the data.
 
-Why are there different types of data structures?
+## Why are there different types of data structures?
 
 > - They all have differing strengths & weaknesses.
 > - Some are fast at **storing** and **recording** data, while others are not.
