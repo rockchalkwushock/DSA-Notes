@@ -36,7 +36,6 @@ If the answer is yes then we will point _both_ the **Head** & **Tail** pointers 
 
 ## Handling these situations in the `addToHead()` method:
 ```javascript
-
 LinkedList.prototype.addToHead = function(value) {
   var newNode = new Node(this.head, null ,value);
   // if this.head = true
@@ -49,10 +48,9 @@ LinkedList.prototype.addToHead = function(value) {
     // In this instance we are adding the first node
     // to the list so we point both Head & Tail pointers
     // at this node.
-    // and if not then set this.tail = newNode.
     this.tail = newNode;
   }
-  // Finally set this. head to the newNode value
+  // Finally set this.head to the newNode value
   this.head = newNode;
 }
 ```
