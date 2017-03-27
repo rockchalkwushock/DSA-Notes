@@ -41,7 +41,7 @@ Data doesn't have to be stored together
 }
 ```
 
-## Links
+## Table of Contents
 1. [Creating our Linked List](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/Creating.md)
 2. [Adding to the Head](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/AddToHead.md)
 3. [Adding to the Tail](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/AddToTail.md)
