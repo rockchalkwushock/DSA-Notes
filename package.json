@@ -1,0 +1,18 @@
+{
+  "name": "dsa-notes",
+  "version": "0.1.0",
+  "author": "Cody <rockchalkwushock@iclould.com> (https://rockchalkwushock.github.io/rcws-development/)",
+  "description": "Repository of notes for learning Data Structures & Algorithms.",
+  "homepage": "https://github.com/rockchalkwushock/DSA-Notes#readme",
+  "main": "README.md",
+  "license": "MIT",
+  "directories": { "doc": "docs" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockchalkwushock/DSA-Notes.git"
+  },
+  "keywords": ["algorithms", "data-structures"],
+  "bugs": {
+    "url": "https://github.com/rockchalkwushock/DSA-Notes/issues"
+  }
+}

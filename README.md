@@ -16,3 +16,6 @@ The following content is from the tutorial:
 4. [Linked Lists](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/LinkedLists.md)
 5. [Binary Search Trees](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/BST.md)
 6. [HashTables](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/HashTables.md)
+
+## License
+[MIT](https://github.com/rockchalkwushock/DSA-Notes/blob/master/LICENSE)
