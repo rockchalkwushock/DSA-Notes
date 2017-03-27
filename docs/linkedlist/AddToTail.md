@@ -13,6 +13,7 @@ To do this we will need to create a prototype on the `LinkedList` constructor.
  * addToTail(arg)
  *
  * @param {Number} value
+ * @returns {Object}
  */
 LinkedList.prototype.addToTail = function(value) {
   // Set the next node equal to null since their

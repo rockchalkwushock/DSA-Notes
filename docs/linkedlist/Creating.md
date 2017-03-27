@@ -8,6 +8,8 @@ _Linked List Constructor_
 ```javascript
 /**
  * LinkedList()
+ *
+ * @returns {Object}
  */
 function LinkedList() {
   this.head = null;

@@ -13,6 +13,7 @@ To do this we will need to create a prototype on the `LinkedList` constructor.
  * addToHead(arg)
  *
  * @param {Number} value
+ * @returns {Object}
  */
 LinkedList.prototype.addToHead = function(value) {
   // Set the next node equal to the current head value.

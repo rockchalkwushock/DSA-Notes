@@ -28,6 +28,8 @@ If the answer is yes then we then we `return null`.
 ```javascript
 /**
  * removeTail()
+ *
+ * @returns {Number}
  */
 LinkedList.prototype.removeTail = function() {
   // Case1: Empty List

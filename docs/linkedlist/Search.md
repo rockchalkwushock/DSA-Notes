@@ -13,6 +13,8 @@ To do this we will need to create a prototype on the `LinkedList` constructor.
  * search(arg)
  *
  * @param {Number} searchValue
+ * @returns {Number}
+ * @returns {Null}
  */
 LinkedList.prototype.search = function(searchValue) {
   // Starting point of search.

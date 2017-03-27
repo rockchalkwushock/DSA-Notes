@@ -8,6 +8,12 @@ To do this we will need to create a prototype on the `LinkedList` constructor.
 
 ## Creating the `indexOf()` method:
 ```javascript
+/**
+ * indexOf(arg)
+ *
+ * @param {Number} value
+ * @returns {Array}
+ */
 LinkedList.prototype.indexOf = function(value) {
   // array to store indexes of search value.
   var indexes = [];
