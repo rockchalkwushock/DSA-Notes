@@ -6,16 +6,31 @@
 - Doubly Linked
 > Each node has reference to the node before and after it.
 
+## What must a Linked List know?
 For a linked list to function properly it only needs to know about 2 nodes:
 - The Head Node/Pointer
 - The Tail Node/Pointer
 
+## Basic Operations
 There are 5 main operations we would want to be able to perform on our Linked List:
 1. Add a node to the **Head**.
 2. Add a node to the **Tail**.
 3. Removing the **Head**.
 4. Remove the **Tail**.
 5. Searching the Linked List.
+
+## Performance
+
+### Constant `O(1)`
+- Adding/Removing head.
+- Adding/Removing tail.
+
+### Linear `O(n)`
+- Searching the List.
+
+## Memory Management with Linked Lists
+Data doesn't have to be stored together
+
 
 ## Example of a node:
 ```javascript
