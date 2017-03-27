@@ -30,5 +30,5 @@ There are 5 main operations we would want to be able to perform on our Linked Li
 1. [Creating our Linked List](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/Creating.md)
 2. [Adding to the Head](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/AddToHead.md)
 3. [Adding to the Tail](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/AddToTail.md)
-4. []()
-5. []()
+4. [Removing the Head](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/RemoveHead.md)
+5. [Removing the Tail](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/linkedlist/RemoveTail.md)
