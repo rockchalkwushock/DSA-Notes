@@ -33,7 +33,7 @@ console.log(myHT);
 ## Hash Node Constructor
 ```javascript
 /**
-* HashTable(arg, arg2, arg3)
+* HashNode(arg, arg2, arg3)
 *
 * @param {String} key
 * @param {String} value

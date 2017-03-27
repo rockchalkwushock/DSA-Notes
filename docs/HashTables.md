@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Creating a HashTable](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/hashtables/Create.md)
-2. [CharCodeAt Method](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/hashtables/CharCodeAt.md)
+2. [CharCodeAt Method & the Modulus Operator](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/hashtables/CharCodeAt.md)
 3. [Hashing the key](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/hashtables/Hash.md)
 4. [Inserting data in the table](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/hashtables/Insert.md)
 5. [Getting values from the table](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/hashtables/Get.md)
