@@ -5,6 +5,10 @@ Notes from Data Structure &amp; Algorithm tutorials.
 
 This is a repository open to all who are learning about DSA; but mostly a place for me to come back to when I forget things :confused:
 
+## Acknowledgements
+The following content is from the tutorial:
+> [Learning Data Structures from Scratch by Eric Traub](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/learn/v4/overview)
+
 ## Table of Contents
 1. [General](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/General.md)
 2. [Constructor Functions](https://github.com/rockchalkwushock/DSA-Notes/blob/master/docs/ConstructorFunctions.md)
