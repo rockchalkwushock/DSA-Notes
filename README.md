@@ -1,7 +1,7 @@
 # DSA-Notes
 Notes from Data Structure &amp; Algorithm tutorials.
 
-> Disclaimer: The following notes are based on DAS in JavaScript only!
+> Disclaimer: The following notes are based on DSA in JavaScript only!
 
 This is a repository open to all who are learning about DSA; but mostly a place for me to come back to when I forget things :confused:
 
